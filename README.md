@@ -9,8 +9,8 @@ Junior software engineer | Experience with Angular, Spring boot, Python,C, C++, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/youssef.hossam1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef.hossam1810" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/youssefaboelwafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefaboelwafa" height="30" width="40" /></a>
+<a href="https://fb.com/youssef.hossam1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef.hossam1810" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/youssefaboelwafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefaboelwafa" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
