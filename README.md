@@ -7,7 +7,7 @@ Junior software engineer | Experience with Angular, Spring boot, Python,C, C++, 
 
  📫 How to reach me **youssef.hossam49@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Platforms:</h3>
 <p align="left">
 <a href="https://fb.com/youssef.hossam1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef.hossam1810" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/youssefaboelwafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefaboelwafa" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
