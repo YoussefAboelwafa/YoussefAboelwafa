@@ -2,7 +2,7 @@
 <h1 align="center">Youssef Aboelwafa</h1>
 <h3 align="center">Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
 <p>
-Junior software engineer | Experience with Angular, Spring boot, Python,C, C++, JAVA, SCALA, HTML, CSS, JavaScript | Problem solving
+Junior Software Engineer || Experience with Frontend Web development, Android | Problem solver & Tech Enthusiast
 </p>
 
  📫 How to reach me **youssef.hossam49@gmail.com**
