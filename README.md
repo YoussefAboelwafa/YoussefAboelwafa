@@ -3,7 +3,7 @@
 <h3 align="center">Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
 
 - Junior Software Engineer</br>
-- Passionate about Artificial Inteligience, Data Science & Machine Learning</br>
+- Passionate about Artificial Intelligence, Data Science & Machine Learning</br>
 - Experience with Frontend Web development, Android</br>
 - Problem solver & Tech Enthusiast
 
