@@ -18,8 +18,10 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,java,javascript,ts,scala,c,cpp)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,tensorflow)](https://skills.thijs.gg)
 </br></br>
-[![My Skills](https://skills.thijs.gg/icons?i=angular,spring,html,css,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,scala,javascript,ts,c,cpp)](https://skills.thijs.gg)
+</br></br>
+[![My Skills](https://skills.thijs.gg/icons?i=androidstudio,angular,spring,html,css,bootstrap)](https://skills.thijs.gg)
 </br></br>
 [![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,azure,bash)](https://skills.thijs.gg)
