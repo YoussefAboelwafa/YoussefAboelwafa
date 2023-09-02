@@ -24,4 +24,4 @@
 </br></br>
 [![My Skills](https://skills.thijs.gg/icons?i=androidstudio,angular,spring,html,css,bootstrap)](https://skills.thijs.gg)
 </br></br>
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,azure,bash)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,aws,azure,bash,arduino)](https://skills.thijs.gg)
