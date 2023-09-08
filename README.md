@@ -2,8 +2,10 @@
 <h1 align="center">Youssef Aboelwafa</h1>
 <h3 align="center">Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=5000&center=true&vCenter=true&multiline=true&width=1000&lines=Passionate+about+Machine+Learning+and+Deep+Learning)](https://git.io/typing-svg)
+
 - Junior Software Engineer</br>
-- Passionate about Artificial Intelligence, Data Science & Machine Learning</br>
+- Passionate about Artificial Intelligence, Data Science, Machine Learning & Deep Learning</br>
 - Experience with Frontend Web development, Android</br>
 - Problem solver & Tech Enthusiast
 
