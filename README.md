@@ -1,6 +1,7 @@
 
 <h1 align="center">Youssef Aboelwafa</h1>
-<h3 align="center">Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Engineering Department (CSED)</h3>
+<p align="center"><strong>Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Engineering Department (CSED)</strong></p>
+
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Junior+ML+Engineer)](https://git.io/typing-svg)
