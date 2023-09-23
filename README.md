@@ -1,6 +1,6 @@
 
 <h1 align="center">Youssef Aboelwafa</h1>
-<p align="center"><strong>Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Engineering Department (CSED)</strong></p>
+<h3 align="center"><strong>Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Engineering Department (CSED)</strong></h3>
 
 <hr>
 
