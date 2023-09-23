@@ -4,9 +4,10 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Junior+ML+Engineer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Passionate+about+Machine+Learning+and+Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Junior+ML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Passionate+about+Machine+Learning+and+Deep+Learning)](https://git.io/typing-svg)
 
+<hr>
 
  📫 How to reach me **youssef.hossam49@gmail.com**
 
