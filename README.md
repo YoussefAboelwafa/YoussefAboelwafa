@@ -26,6 +26,6 @@
 </br></br>
 [![My Skills](https://skills.thijs.gg/icons?i=java,scala,javascript,ts,c,cpp)](https://skills.thijs.gg)
 </br></br>
-[![My Skills](https://skills.thijs.gg/icons?i=androidstudio,angular,spring,html,css,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql,spring,androidstudio,angular,html,css,bootstrap)](https://skills.thijs.gg)
 </br></br>
 [![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,bash,aws,azure,arduino)](https://skills.thijs.gg)
