@@ -25,7 +25,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,tensorflow)](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=python,pytorch,tensorflow)](https://skills.thijs.gg) 
 </br></br>
 [![My Skills](https://skills.thijs.gg/icons?i=java,scala,javascript,ts,c,cpp)](https://skills.thijs.gg)
 </br></br>
