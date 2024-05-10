@@ -25,10 +25,11 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,pytorch,tensorflow)](https://skills.thijs.gg) 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev) 
 </br></br>
-[![My Skills](https://skills.thijs.gg/icons?i=java,scala,javascript,ts,c,cpp)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,scala,javascript,ts,c,cpp)](https://skillicons.dev)
 </br></br>
-[![My Skills](https://skills.thijs.gg/icons?i=mysql,spring,angular,html,css,bootstrap,androidstudio)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=mysql,spring,angular,html,css,bootstrap,androidstudio)](https://skillicons.dev)
 </br></br>
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,bash,aws,azure,arduino)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,aws,azure,arduino)](https://skillicons.dev)
+
