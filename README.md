@@ -4,8 +4,8 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Junior+ML+Engineer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Passionate+about+Machine+Learning+and+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Computer+Vision+Research+and+Development+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1000&repeat=false&lines=Passionate+about+AI+and+Machine+Learning)](https://git.io/typing-svg)
 
 <hr>
 
@@ -25,9 +25,8 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
-</br></br>
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev) 
 </br></br>
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,fastapi)](https://skillicons.dev)
 </br></br>
