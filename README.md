@@ -25,11 +25,15 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
 </br></br>
-[![My Skills](https://skillicons.dev/icons?i=java,scala,javascript,ts,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) 
 </br></br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,spring,angular,html,css,bootstrap,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,fastapi)](https://skillicons.dev)
 </br></br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,aws,azure,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash)](https://skillicons.dev)
+</br></br>
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,mongodb,spring,angular)](https://skillicons.dev)
+
+
 
